@@ -7,5 +7,5 @@ Why does the world have to be toxic? Why does the world have to have so much hat
 
 ### Music
 I listen to a lot of music. Here are my top 10 bands of all time
-1. [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS)
+<iframe src="https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
 
