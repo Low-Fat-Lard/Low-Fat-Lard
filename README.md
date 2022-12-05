@@ -7,6 +7,6 @@ Why does the world have to be toxic? Why does the world have to have so much hat
 
 ### Music
 I listen to a lot of music.
-------
+---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mghdckzxqrnkr33iwbnj25rzke&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
