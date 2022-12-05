@@ -1,5 +1,5 @@
 ## Low Fat Lard
-![Kermit]([image.jpg](https://www.pngitem.com/pimgs/m/124-1242072_cartoon-kermit-png-transparent-png.png))
+![Kermit](https://s.yimg.com/ny/api/res/1.2/HmyhtFNe5MU35jX02omdWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en-US/homerun/time_72/0377651ad11e6190eef21a8d019445a8)
 Why does the world have to be toxic? Why does the world have to have so much hate? Well, I believe it's all from anarchic empathy. Here, Low Fat Lard, is a place filled with Oxymorons! To show the world it's true self! To make the world a better place, or something? Glas was really my main thing. I really hope the Irish education system improves in Ireland, because at the mo, it's a huge fat L.
 ### Some of the stuff I'm proud of
 | Name | Description |
