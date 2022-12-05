@@ -8,4 +8,4 @@ Why does the world have to be toxic? Why does the world have to have so much hat
 | [Lego](https://github.com/Low-Fat-Lard/first-lego-league) | First lego league HSD entry |
 ### Music
 I listen to a lot of music.
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mghdckzxqrnkr33iwbnj25rzke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mghdckzxqrnkr33iwbnj25rzke&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mghdckzxqrnkr33iwbnj25rzke&redirect=true)
